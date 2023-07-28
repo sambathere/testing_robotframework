@@ -31,7 +31,7 @@ ${RIGHT LEG SELECT}      //*[@id="menu-leg"]/div[3]/ul/li[1]
 
 ${ADD PLAYER LOGO}       //*[@id="__next"]/div[1]/main/div[2]/form/div[1]/div/span
 
-${ADD PLAYER NAME}        //*/div[2]/div/div/input
+${ADD PLAYER NAME}        //*[@id="__next"]/div[1]/main/div[2]/form/div[2]/div/div[2]/div/div/input
 
 ${ADD PLAYER SURNAME}      //*/div/div[3]/div/div/input
 
